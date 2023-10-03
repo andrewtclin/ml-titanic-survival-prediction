@@ -1,6 +1,6 @@
 ## Titanic Survival Predictions
 
-### Jupyter Notebook DEMO
+### Jupyter Notebook Demo
 
 - [Titanic Survival Predictions](https://github.com/andrewtclin/ml-titanic-survival-prediction/blob/master/competition_titanic.ipynb)
 
